@@ -9,7 +9,7 @@ const data = [
 # The interestCalculator function below accepts an array of objects as an argument, then determines the rate and calculates 
 # the interest for each object in the array. The respective determined rate and calculated interest for each object are 
 # then included as updated data for the objects in a new array of objects named interestData which is returned by the
-# function. Finally, each object in the returned interestData array have principal, time, rate and interest as properties.
+# function. Thus each object in the returned interestData array have principal, time, rate and interest as properties.
 */
 
 let interestCalculator = (arrayOfObjects) => {
