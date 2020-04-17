@@ -5,7 +5,7 @@
 * Numbers divisible by 3 are replaced by "gi"
 * Numbers divisible by 5 are replaced by "oh"
 * Numbers are unchanged if not divsible by any of 2,3,5
-* Numbers divisible by more than one of 2,3,5 are replaced with words formed by join the words representing their divisors, separating with hyphen (-).
+* Numbers divisible by more than one of 2,3,5 are replaced with words formed by joining the words representing their divisors, separating with hyphen (-).
 # The function then finally returns an array containing all numbers from 1 to the passed argument(inclusive) where all divisible numbers have been replaced as specified above. 
 */
 
